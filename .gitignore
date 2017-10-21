@@ -1,0 +1,6 @@
+build/
+vsbuild/
+stderr.log
+stdout.log
+vs_stderr.log
+vs_stdout.log
